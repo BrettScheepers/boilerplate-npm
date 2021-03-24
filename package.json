@@ -1,6 +1,6 @@
 {
-	"author": "Brett Scheepers",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Brett Scheepers",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
